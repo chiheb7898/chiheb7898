@@ -41,6 +41,13 @@
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
+<details>
+<summary>Achievements</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=chiheb7898&theme=darkhub&no-frame=true&column=7">
+</a>
+</details>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiheb7898&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
