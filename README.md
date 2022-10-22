@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chiheb</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
+- 📫 How to reach me **chikhaouichiheb1@gmail.com**
 - 🔭 I’m currently working on **InterX** <br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qk5wacanK5U/0.jpg)](https://www.youtube.com/watch?v=qk5wacanK5U)
 
-- 📫 How to reach me **chikhaouichiheb1@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,9 +15,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="header" align="center">
+<h3 align="left">Github Stats:</h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
