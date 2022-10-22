@@ -60,9 +60,6 @@
 
 <img alt="github contribution snake animation" src="https://github.com/chiheb7898/chiheb7898/blob/output/github-contribution-grid-snake.svg">
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
 <summary>See quote</summary>
