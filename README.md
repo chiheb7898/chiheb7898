@@ -26,7 +26,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiheb7898&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
