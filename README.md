@@ -23,6 +23,13 @@
   </a>
 </div>
 
+<details>
+<summary>Streak stats</summary>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazr/github-readme-stats)
+    </a>
+</details>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>:thought_balloon: Quote of the day</h2>
