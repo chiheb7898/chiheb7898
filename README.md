@@ -56,6 +56,8 @@
 </div>
 </details>
 
+<img alt="github contribution snake animation" src="https://github.com/chiheb7898/chiheb7898/blob/output/github-contribution-grid-snake.svg">
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiheb7898&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
