@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 - 🔭 I’m currently working on **InterX**
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qk5wacanK5U/0.jpg)](https://www.youtube.com/watch?v=qk5wacanK5U)
 Link: https://www.youtube.com/watch?v=qk5wacanK5U
 
 - 📫 How to reach me **chikhaouichiheb1@gmail.com**
