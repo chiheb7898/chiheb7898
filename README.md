@@ -15,9 +15,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="left">Github Stats:</h3>
+<h2>:octocat: My GitHub Stats</h2>
 
-<h2>:thought_balloon: Quote of the day</h2>
+<details>
+<summary>Streak stats</summary>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://chiheb7898-github-streak-stats.herokuapp.com/?user=chiheb7898&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+</details>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiheb7898&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiheb7898&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
